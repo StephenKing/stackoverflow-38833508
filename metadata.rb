@@ -1,4 +1,4 @@
-name 'stackoverflow-38833508'
+name 'simple'
 maintainer 'The Authors'
 maintainer_email 'you@example.com'
 license 'all_rights'

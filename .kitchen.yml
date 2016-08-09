@@ -13,10 +13,12 @@ provisioner:
 
 platforms:
   - name: ubuntu-16.04
-  - name: centos-7.2
 
 suites:
   - name: default
-    run_list:
-      - recipe[stackoverflow-38833508::default]
+    run_list: 
+      - recipe[simple::default]
     attributes:
+     simpleattr: 'value from kitchen'
+     simple:
+       simpleattr: 'value from kitchen'

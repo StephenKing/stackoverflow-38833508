@@ -1,0 +1,2 @@
+default['simpleattr']   = 'file value'
+
