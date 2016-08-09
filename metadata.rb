@@ -1,0 +1,7 @@
+name 'stackoverflow-38833508'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures stackoverflow-38833508'
+long_description 'Installs/Configures stackoverflow-38833508'
+version '0.1.0'
